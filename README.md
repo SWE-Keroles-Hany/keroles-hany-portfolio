@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Software Engineer** and **Computer Science graduate** with hands-on experience in **Flutter, Dart, Kotlin, and Jetpack Compose**.
+I'm a **Junior Mobile Software Engineer** and **Computer Science graduate** with hands-on experience in **Flutter, Dart, Kotlin, and Jetpack Compose**.
 
 I build cross-platform and native Android applications with a focus on:
 
